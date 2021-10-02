@@ -2,7 +2,7 @@
 ![API](https://img.shields.io/badge/API-15%2B-blue.svg?style=flat) ![Download](https://api.bintray.com/packages/wotomas/maven/voice-ripple-record-button/images/download.svg)
 
 # About
-[<img src="media/voiceRippleView.gif" width="200" />]()
+[<img src="media/voiceRippleView.gif" width="200" />]
 
 Voice Record Button that has ripple effect with users voice. Calculation of decibels from max amplitude by using the following:
 
